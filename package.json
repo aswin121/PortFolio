@@ -2,7 +2,7 @@
   "name": "aswin_portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aswin121.github.io/Portfolio/",
+ "homepage": "https://aswin121.github.io/PortFolio",
   "dependencies": {
     "@react-spring/web": "^9.7.3",
     "@react-three/drei": "^9.107.0",
